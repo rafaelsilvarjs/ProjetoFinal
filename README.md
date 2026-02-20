@@ -23,7 +23,12 @@ MVP para apoio a professores e alunos no ensino publico, com geracao de atividad
 eduflow/
   backend/   # API Node.js + Express + Prisma
   frontend/  # React + Vite
+  docs/      # Documentacao tecnica
 ```
+
+## Arquitetura
+
+- Documento tecnico: `docs/ARCHITECTURE.md`
 
 ## Tecnologias
 
